@@ -1,4 +1,5 @@
 ![The True Definition of Scottish](scotland.JPG)
 
 
-![Roms on Mega pls](40.png)
+![Someone pinging the biggest roles (owners of the server and service) about **roms**. Not just roms, but roms on mega. He wanted them to put roms on mega for ](40.png)
+
