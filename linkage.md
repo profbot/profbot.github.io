@@ -35,7 +35,7 @@ Well, it's not a free feature, so these free TDs are from the EDU version of Goo
 
 However, here are some websites where you can make some free TDs:
 
-[A Range Of Universities](td.fastio.me)
+[A Range Of Universities](http://td.fastio.me/)
 
 
 
