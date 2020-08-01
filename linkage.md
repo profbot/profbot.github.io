@@ -21,7 +21,7 @@ A TD or team drive/shared drive is a drive attached to your own google drive whi
  - Unlimited Storage Space
  - A 400,000 file amount limit in a single team drive. Folders count towards this limit.
  - A maximum of 5TB in a single file
- - **User Limits**:
+**User Limits**:
   - 750GB upload per user/per day but if you hit the limit during upload, it will let you finish uploading the file up to 5TB. If you start uploading another file, it will error out with a message about upload quota cap.
   - A 10TB Download amount per day.
   
@@ -34,6 +34,8 @@ As you can see, TDs are pretty amazing right?
 Well, it's not a free feature, so these free TDs are from the EDU version of Google Drive. So you shouldn't rely on it as permanent storage. 
 
 However, here are some websites where you can make some free TDs:
+
+[A Range Of Universities](td.fastio.me)
 
 
 
