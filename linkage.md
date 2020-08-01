@@ -5,7 +5,7 @@ This is a list of public TDs (team drives) which are full of movies, TV shows, a
 
 
 ### Contents:
- - [FAQ]()
+ - [FAQ](https://profbot.github.io/linkage#faq)
  - Making your own TDs
 
  - [Public TDs](https://profbot.github.io/linkage#public-tds)
