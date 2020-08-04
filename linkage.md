@@ -15,7 +15,7 @@ This is a list of public TDs (team drives) which are full of movies, TV shows, a
    - [The Biology Drives](https://profbot.github.io/linkage#the-biology-drives)
    - [The Torrent Hoarding Drives](https://t.me/joinchat/O6Yq0E6xYMIP-XPPSK4ORQ)
 
- - [Useful Tools](https://profbot.github.io/linkage#Useful-Tools)
+ - [Useful Tools](https://profbot.github.io/linkage#useful-tools)
 
 
 ### FAQ
