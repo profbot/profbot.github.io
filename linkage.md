@@ -6,11 +6,16 @@ This is a list of public TDs (team drives) which are full of movies, TV shows, a
 
 ### Contents:
  - [FAQ](https://profbot.github.io/linkage#faq)
- - [Making your own TDs]()
+  - What is a TD?
+  - What are the User Limits?
+  - Making Your Own TDs
+  
 
  - [Public TDs](https://profbot.github.io/linkage#public-tds)
    - [The Biology Drives](https://profbot.github.io/linkage#the-biology-drives)
    - [The Torrent Hoarding Drives](https://t.me/joinchat/O6Yq0E6xYMIP-XPPSK4ORQ)
+
+ - [Useful Tools](https://profbot.github.io/linkage#Useful-Tools)
 
 
 ### FAQ
@@ -56,4 +61,6 @@ I do not recommend using the Enterprise or Non-Profit domains as they are much s
 ### The Biology Drives
 
 The Biology Drives are a collection of a dozen or so drives which house approximately `2.7PB` of content. You can find out how to join them [here](https://telegra.ph/How-to-join-our-movie-team-drive-with-just-a-click-11-21). 
+
+### The Torrent Hoarding Group
 
