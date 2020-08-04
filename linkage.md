@@ -6,7 +6,7 @@ This is a list of public TDs (team drives) which are full of movies, TV shows, a
 
 ### Contents:
  - [FAQ](https://profbot.github.io/linkage#faq)
- - Making your own TDs
+ - [Making your own TDs]()
 
  - [Public TDs](https://profbot.github.io/linkage#public-tds)
    - [The Biology Drives](https://profbot.github.io/linkage#the-biology-drives)
@@ -35,7 +35,18 @@ Well, it's not a free feature, so these free TDs are from the EDU version of Goo
 
 However, here are some websites where you can make some free TDs:
 
-[A Range Of Universities](http://td.fastio.me/)
+ - [A Range Of Universities](http://td.fastio.me/)
+ - [Mail.ccsf.edu](https://teamdrive.mfoxx.workers.dev/)
+
+
+I do not recommend using the Enterprise or Non-Profit domains as they are much smaller or paid for, meaning the chances that they get shut down is larger. The School domains are better because:
+
+ - They get the service for free.
+ - A large amount of people are currently using this.
+ - There is no current way to bulk delete these drives.
+
+
+
 
 
 
