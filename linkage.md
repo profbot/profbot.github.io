@@ -70,18 +70,11 @@ The Biology Drives are a collection of a dozen or so drives which house approxim
 
 These are tools which can improve the copying, uploading and overall management of your Google Drive.
 
-Copying:
- - [Autorclone]()
- - [Fclone]()
- - [Gclone]()
- - [Air Explorer]()
- - [Folderclone]()
-
-
-| Tool Name    | Official Page Link                                    | Pros                                                                                                     | Cons                                    |
-|--------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Air Explorer | Travis Scott                                          | By default, it uses the server-side copying feature, making copying very fast. It also has a decent GUI. | Still limited by the 750GB daily limit. |
-| Folderclone  | [Github Page](https://github.com/Spazzlo/folderclone) |                                                                                                          |                                         |
-| Gclone       | [Github Page](https://github.com/donwa/gclone)        |                                                                                                          |                                         |
-| Autorclone   | [Github Page](https://github.com/xyou365/AutoRclone)  |                                                                                                          |                                         |
-| Fclone       |                                                       |                                                                                                          |                                         |
+| Tool Name    | Official Page Link                                                                       | Pros                                                                                                         | Cons                                                                                                                           |
+|--------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Rclone       | [Official Page](https://rclone.org/) and [Github Page](https://github.com/mawaya/rclone) | A CLI way to fully manage your google drive (and other cloud storage) include copying, moving, deleting etc. | The CLI can be somewhat intimidating rto some people.                                                                          |
+| Air Explorer | [Page](https://www.airexplorer.net/en/)                                                  | By default, it uses the server-side copying feature, making copying very fast. It also has a decent GUI.     | Still limited by the 750GB daily limit.                                                                                        |
+| Folderclone  | [Github Page](https://github.com/Spazzlo/folderclone)                                    | Bypasses 750GB limit through the use of SA accounts.                                                         | Almost no support.                                                                                                             |
+| Gclone       | [Github Page](https://github.com/donwa/gclone)                                           | Fast cloning, also bypasses the daily limit.                                                                 | Must have rclone setup.                                                                                                        |
+| Autorclone   | [Github Page](https://github.com/xyou365/AutoRclone)                                     | Bypasses 750GB limit.                                                                                        | It has also proven to be somewhat slow. You must have rclone setup and a reasonable knowledge about [it](https://rclone.org/). |
+| Fclone       | [Github Page](https://github.com/mawaya/rclone)                                          | Fork of Rclone with the use of service accounts integrated.                                                  | Knowledge of rclone needed.                                                                                                    |
