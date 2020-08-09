@@ -327,3 +327,40 @@ Programs
 For spectral analysis, we recommend using either Adobe Audition (Windows or Mac OS), Audacity (Windows, Mac OS, Linux), and SoX (Windows, Mac OS, Linux — command line only). All of the spectrals that appear in this guide were viewed in Adobe Audition CS 6.
 
 Although you should use spectral analysis to determine whether a file is a transcode or not, you will need to use another program to first determine what bitrate or encoding preset the file claims to be. For this purpose, we recommend using Audio Identifier or dbPowerAmp on Windows and dnuos or MediaInfo on Mac OS.
+
+
+
+### Torrent Client Whitelist
+
+This list is not updated as often as the official one and is most likely outdated. If you have a newer version (eg. uTorrent), don't assume it's not allowed.
+
+    - aTorrent 3.0.x
+    - BitTorrent 7.xx
+    - btpd 0.16
+    - Deluge 1.3.x
+    - Deluge 2.x
+    - Flud 1.4.9.x
+    - Flud 1.5.x
+    - Halite 0.4.0.4
+    - KTorrent 4.3.x
+    - KTorrent 5.0.x
+    - KTorrent 5.1.x
+    - Leechcraft 0.6.x
+    - libtorrent/1.1.x
+    - qBittorrent 3.0.9
+    - qBittorrent 3.3.x
+    - qBittorrent 4.0.x
+    - qBittorrent 4.1.x
+    - qBittorrent 4.2.x
+    - rTorrent 0.8.x / libtorrent 0.12.x
+    - rTorrent 0.9.x / libtorrent 0.13.x
+    - Transmission 1.5.4
+    - Transmission 2.xx
+    - uTorrent 1.8.x
+    - uTorrent 2.0.4
+    - uTorrent 2.2.x
+    - uTorrent 3.5.3
+    - uTorrent 3.5.4
+    - uTorrent 3.5.5
+    - uTorrent Mac 1.5x
+    - uTorrent Mac 1.8x
