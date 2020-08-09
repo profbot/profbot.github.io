@@ -8,6 +8,7 @@ Contents:
  - [Golden Rules](https://profbot.github.io/red-interview#golden-rules)
  - [CD Ripping and Burning](https://profbot.github.io/red-interview#cd-ripping-and-burning)
  - [Spectral Analysis](https://profbot.github.io/red-interview#spectral-analysis)
+ - [Torrent Client Whitelist](https://profbot.github.io/red-interview#torrent-client-whitelist)
 
 
 ### Analog and Digital Music Sources
