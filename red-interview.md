@@ -1,5 +1,13 @@
 # The Red Interview Guide
 
+Contents:
+ - [Analog and Digital Music Sources](https://profbot.github.io/red-interview#analog-and-digital-music-sources)
+ - [Torrenting](https://profbot.github.io/red-interview#torrenting)
+ - [Audio Formats](https://profbot.github.io/red-interview#audio-formats)
+ - [LAME](https://profbot.github.io/red-interview#lame)
+ - [Golden Rules](https://profbot.github.io/red-interview#golden-rules)
+ - [CD Ripping and Burning](https://profbot.github.io/red-interview#cd-ripping-and-burning)
+ - [Spectral Analysis](https://profbot.github.io/red-interview#spectral-analysis)
 
 
 ### Analog and Digital Music Sources
