@@ -14,6 +14,7 @@ I enjoy datahoarding and archiving and I use a great many tools to do that. Most
  - [Deemix](https://deemix.app/) - Another command line tool written in python to download `FLAC` and `MP3` directly from Deezer. `PYTHON` `COMMAND LINE`
 
  - [gallery-dl](https://github.com/mikf/gallery-dl) - A python-based tool to download photos/albums from a bunch of supported sites, which you can view [here](https://github.com/mikf/gallery-dl/blob/master/docs/supportedsites.rst).
- 
+
+ - [libgen-dl/Bookcut](https://github.com/costis94/bookcut) - Another python-based app which downloads books from Libgen.`PYTHON` `COMMAND LINE`
 
 
