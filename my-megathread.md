@@ -17,4 +17,12 @@ I enjoy datahoarding and archiving and I use a great many tools to do that. Most
 
  - [libgen-dl/Bookcut](https://github.com/costis94/bookcut) - Another python-based app which downloads books from Libgen.`PYTHON` `COMMAND LINE`
 
+ - [MangaPy](https://github.com/manga-py/manga-py) - A python tool to download manga. `PYTHON` `COMMAND LINE`
+
+ - [Omnibus](https://github.com/fireshaper/Omnibus) - A C# app to download comics directly from https://getcomics.info/. `C#` `GUI` 
+
+ - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) - an app to download your **purchased** udemy courses. `JS` `HTML` `CSS`
+
+ 
+
 
