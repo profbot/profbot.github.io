@@ -19,7 +19,7 @@ I enjoy datahoarding and archiving and I use a great many tools to do that. Most
 
  - [MangaPy](https://github.com/manga-py/manga-py) - A python tool to download manga. `PYTHON` `COMMAND LINE`
 
- - [Omnibus](https://github.com/fireshaper/Omnibus) - A C# app to download comics directly from (https://getcomics.info/). `C#` `GUI` 
+ - [Omnibus](https://github.com/fireshaper/Omnibus) - A C# app to download comics directly from [here](https://getcomics.info/). `C#` `GUI` 
 
  - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) - an app to download your **purchased** udemy courses. `JS` `HTML` `CSS`
 
