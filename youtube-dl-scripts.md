@@ -13,7 +13,6 @@ youtube-dl --format "(bestvideo[vcodec^=av01][height>=4320][fps>30]/bestvideo[vc
 
 ```powershell
 
-
 youtube-dl --format "(bestaudio[acodec^=opus]/bestaudio)/best" --verbose --sleep-interval 2 --max-sleep-interval 4 --ignore-errors --no-continue --no-overwrites --download-archive archive.log --add-metadata --write-description --write-info-json --write-annotations --write-thumbnail --extract-audio --output "%(uploader)s/%(uploader)s - %(upload_date)s - %(title)s/%(uploader)s - %(upload_date)s - %(title)s [%(id)s].%(ext)s" --batch-file "Channels.txt"
 
 ```
