@@ -18,6 +18,15 @@ youtube-dl --format "(bestaudio[acodec^=opus]/bestaudio)/best" --verbose --sleep
 
 ```
 
+### Youtube Videos - Audio
+
+```powershell
+
+youtube-dl --format "(bestaudio[acodec^=opus]/bestaudio)/best" --verbose --download-archive archive.log --add-metadata --extract-audio -o "%(title)s.%(ext)s" --batch-file "Youtube Videos - Audio.txt"
+
+
+```
+
 ### Crunchyroll Videos
 
 ```powershell

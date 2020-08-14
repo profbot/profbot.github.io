@@ -23,6 +23,13 @@ I enjoy datahoarding and archiving and I use a great many tools to do that. Most
 
  - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) - an app to download your **purchased** udemy courses. `JS` `HTML` `CSS`
 
+#### Automatic Downloading:
+
+ - [Sonarr]() - 
+ - [Radarr]() - 
+ - []() - 
+ - []() - 
+
 
 
 
