@@ -40,3 +40,22 @@ youtube-dl --no-check-certificate --add-metadata --all-subs --embed-subs --merge
 youtube-dl -i --all-subs --embed-subs --convert-subs "srt" --merge-output "mkv" --output "%(title)s [%(id)s].%(ext)s" --download-archive archive.log --batch-file "BBC iPlayer Videos.txt"
 
 ```
+
+### Soundcloud Music - Tracks
+
+
+
+```powershell
+
+youtube-dl --add-metadata --output "%(title)s.%(ext)s" --download-archive archive.log -i --batch-file "Soundcloud - Tracks.txt"
+
+```
+
+### Soundcloud Music - Artists
+
+```powershell
+
+youtube-dl --add-metadata --output "%(uploader)s/%(title)s.%(ext)s" --download-archive archive.log -i --batch-file "Soundcloud - Artists.txt"
+
+```
+
