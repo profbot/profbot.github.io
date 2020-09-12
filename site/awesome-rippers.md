@@ -12,27 +12,29 @@ HTTrack
 
 ### Service Rippers
 
-Qo-dl
+ - Qo-dl
 
-Spytfy
+ - Spytfy
 
-Deemix
+ - Deemix
 
-Smloadr
+ - Smloadr
 
-Youtube-dl
+ - Youtube-dl
 
-Soundscrape
+ - Soundscrape
 
-Bc-dl
+ - Bc-dl
 
-Tidal-Media-Downloader
+ - Tidal-Media-Downloader
 
-Funimation-Downloader
+ - Funimation-Downloader
 
-Crunchyroll-Downloader
+ - Crunchyroll-Downloader
 
-Saavn Downloader
+ - Saavn Downloader
+
+
 
 
 
