@@ -55,7 +55,7 @@ youtube-dl --add-metadata --output "%(title)s.%(ext)s" --download-archive archiv
 
 ```powershell
 
-youtube-dl --add-metadata --output "%(uploader)s/%(title)s.%(ext)s" --download-archive archive.log -i --batch-file "Soundcloud - Artists.txt"
+youtube-dl --add-metadata --output "%(uploader)s/%(title)s/%(title)s.%(ext)s" --write-description --write-thumbnail --download-archive archive.log -i --batch-file "Soundcloud - Artists.txt"
 
 ```
 
