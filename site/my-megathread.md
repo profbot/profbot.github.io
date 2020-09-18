@@ -8,7 +8,7 @@ I enjoy datahoarding and archiving and I use a great many tools to do that. Most
  - [Go-InternetArchive](https://github.com/nektro/go-internetarchive) - A command line tool to download files from the Internet Archive. `GO` `COMMAND LINE`
 
 
-![goiapic](/megathread/goia.jpg)
+![goiapic](/images/goia.jpg)
 
 
  - [Deemix](https://deemix.app/) - Another command line tool written in python to download `FLAC` and `MP3` directly from Deezer. `PYTHON` `COMMAND LINE`
