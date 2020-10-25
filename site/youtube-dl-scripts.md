@@ -59,3 +59,10 @@ youtube-dl --add-metadata --output "%(uploader)s/%(title)s/%(title)s.%(ext)s" --
 
 ```
 
+### CuriosityStream Videos
+
+```powershell
+
+youtube-dl --add-metadata --write-description --write-info-json --all-subs --embed-subs --write-thumbnail --download-archive curiositystream.log --ignore-errors --output "/%(title)s/%(title)s.%(ext)s/" <URL>
+
+```
